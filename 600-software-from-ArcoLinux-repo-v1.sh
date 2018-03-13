@@ -44,7 +44,7 @@ sudo pacman -S arcolinux-root-git --noconfirm --needed
 sudo pacman -S arcolinux-termite-themes-git --noconfirm --needed
 #sudo pacman -S arcolinux-tint2-git --noconfirm --needed
 #sudo pacman -S arcolinux-tint2-themes-git --noconfirm --needed
-sudo pacman -S arcolinux-variety-git --noconfirm --needed
+#sudo pacman -S arcolinux-variety-git --noconfirm --needed
 sudo pacman -S arcolinux-wallpapers-git --noconfirm --needed
 sudo pacman -S arcolinux-xfce-thunar-git --noconfirm --needed
 
@@ -71,9 +71,3 @@ echo "################################################################"
 echo "removing all folders and files unnecessary for this desktop from .local"
 echo "################################################################"
 echo
-
-echo "################################################################"
-echo "removing to fix variety ~/.config/variety"
-echo "################################################################"
-echo
-rm -rf ~/.config/variety
