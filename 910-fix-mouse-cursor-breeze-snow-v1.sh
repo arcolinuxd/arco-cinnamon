@@ -13,35 +13,12 @@ set -e
 #
 ##################################################################################################################
 
-# software from AUR (Arch User Repositories)
-# https://aur.archlinux.org/packages/
+echo "Everywhere Breeze-snow as cursor"
+echo "Change cursor if you want"
 
-echo "DESKTOP SPECIFIC APPLICATIONS"
+sudo cp -r Personal/settings/default/index.theme /usr/share/icons/default/
 
-echo "Installing category Accessories"
-
-echo "Installing category Development"
-
-echo "Installing category Education"
-
-echo "Installing category Games"
-
-echo "Installing category Graphics"
-
-echo "Installing category Internet"
-
-echo "Installing category Multimedia"
-
-sh AUR/install-mpd-ncmpcpp-v*.sh
-
-echo "Installing category Office"
-
-echo "Installing category Other"
-
-echo "Installing category System"
-
-sudo pacman -S --noconfirm --needed nemo-fileroller
 
 echo "################################################################"
-echo "####    Software from Arch Linux Repository installed     ######"
+echo "####           TO SEE THE EFFECT YOU MUST LOG OFF          ######"
 echo "################################################################"
