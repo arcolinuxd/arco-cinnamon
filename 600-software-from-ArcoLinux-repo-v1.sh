@@ -71,3 +71,9 @@ echo "################################################################"
 echo "removing all folders and files unnecessary for this desktop from .local"
 echo "################################################################"
 echo
+
+echo "################################################################"
+echo "removing to fix variety ~/.config/variety"
+echo "################################################################"
+echo
+rm -rf ~/.config/variety
