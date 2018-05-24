@@ -43,6 +43,7 @@ echo "Installing category System"
 sudo pacman -S --noconfirm --needed nemo-fileroller
 sudo pacman -S imagemagick --noconfirm --needed
 sudo pacman -S w3m --noconfirm --needed
+sudo pacman -S cinnamon-translations --noconfirm --needed
 
 echo "################################################################"
 echo "####    Software from Arch Linux Repository installed     ######"

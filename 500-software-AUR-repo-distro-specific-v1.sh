@@ -15,6 +15,7 @@ set -e
 
 echo "AUR - DESKTOP SPECIFIC APPLICATIONS "
 
+sh AUR-DS/install-mintlocale-v*.sh
 sh AUR/install-yad-v*.sh
 
 echo "################################################################"
