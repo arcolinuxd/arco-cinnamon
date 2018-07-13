@@ -48,6 +48,11 @@ binding=['<Super>F2']
 command='subl3'
 name='sublime-text'
 
+[custom-keybindings/custom42]
+binding=['<Super>F7']
+command='virtualbox'
+name='virtualbox'
+
 [custom-keybindings/custom30]
 binding=['<Primary><Alt>f']
 command='firefox'
@@ -209,7 +214,7 @@ command='gnome-terminal'
 name='gnome-terminal'
 
 [/]
-custom-list=['custom0', 'custom1', 'custom2', 'custom3', 'custom4', 'custom5', 'custom6', 'custom7', 'custom9', 'custom10', 'custom11', 'custom12', 'custom13', 'custom14', 'custom15', 'custom16', 'custom17', 'custom18', 'custom19', 'custom20', 'custom21', 'custom22', 'custom23', 'custom24', 'custom25', 'custom26', 'custom27', 'custom8', 'custom28', 'custom29', 'custom30', 'custom31', 'custom32', 'custom33', 'custom34', 'custom35', 'custom36', 'custom37', 'custom38', 'custom40', 'custom39', 'custom41']
+custom-list=['custom0', 'custom1', 'custom2', 'custom3', 'custom4', 'custom5', 'custom6', 'custom7', 'custom9', 'custom10', 'custom11', 'custom12', 'custom13', 'custom14', 'custom15', 'custom16', 'custom17', 'custom18', 'custom19', 'custom20', 'custom21', 'custom22', 'custom23', 'custom24', 'custom25', 'custom26', 'custom27', 'custom8', 'custom28', 'custom29', 'custom30', 'custom31', 'custom32', 'custom33', 'custom34', 'custom35', 'custom36', 'custom37', 'custom38', 'custom40', 'custom39', 'custom41', 'custom42']
 
 [wm]
 close=['<Shift><Super>q']
