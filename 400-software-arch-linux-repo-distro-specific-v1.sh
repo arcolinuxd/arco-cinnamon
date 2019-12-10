@@ -42,10 +42,11 @@ echo "Installing category Other"
 
 echo "Installing category System"
 
+sudo pacman -S cinnamon-translations --noconfirm --needed
 sudo pacman -S nemo-fileroller --noconfirm --needed
 sudo pacman -S imagemagick --noconfirm --needed
 sudo pacman -S w3m --noconfirm --needed
-sudo pacman -S cinnamon-translations --noconfirm --needed
+sudo pacman -S xfce4-terminal --noconfirm --needed
 
 echo "################################################################"
 echo "####    Software from Arch Linux Repository installed     ######"
