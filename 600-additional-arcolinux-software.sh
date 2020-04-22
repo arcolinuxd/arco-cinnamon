@@ -56,7 +56,6 @@ func_category Arcolinux
 
 list=(
 arcolinux-arc-themes-nico-git
-arcolinux-bin-git
 arcolinux-cinnamon-dconf-git
 arcolinux-cinnamon-git
 arcolinux-config-cinnamon-git
