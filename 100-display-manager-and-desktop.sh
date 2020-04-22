@@ -63,9 +63,6 @@ gnome-screenshot
 iso-flag-png
 mintlocale
 nemo-fileroller
-arcolinux-cinnamon-git
-arcolinux-config-cinnamon-git
-arcolinux-cinnamon-dconf-git
 )
 
 count=0
