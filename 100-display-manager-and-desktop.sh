@@ -50,6 +50,11 @@ lightdm
 arcolinux-lightdm-gtk-greeter
 arcolinux-lightdm-gtk-greeter-settings
 arcolinux-wallpapers-git
+thunar
+thunar-archive-plugin
+thunar-volman
+xfce4-terminal
+arcolinux-xfce-git
 cinnamon
 cinnamon-translations
 gnome-terminal
@@ -61,10 +66,6 @@ nemo-fileroller
 arcolinux-cinnamon-git
 arcolinux-config-cinnamon-git
 arcolinux-cinnamon-dconf-git
-thunar
-thunar-archive-plugin
-thunar-volman
-xfce4-terminal
 )
 
 count=0
