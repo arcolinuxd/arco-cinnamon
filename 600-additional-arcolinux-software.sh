@@ -55,7 +55,7 @@ func_category() {
 func_category Arcolinux-Desktop
 
 list=(
-arcolinux-cinnamon-dconf-git
+arcolinux-dconf-all-desktops-git
 arcolinux-cinnamon-git
 arcolinux-config-all-desktops-git
 thunar
