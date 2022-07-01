@@ -57,7 +57,7 @@ func_category Arcolinux-Desktop
 list=(
 arcolinux-cinnamon-dconf-git
 arcolinux-cinnamon-git
-arcolinux-config-cinnamon-git
+arcolinux-config-all-desktops-git
 thunar
 thunar-archive-plugin
 thunar-volman
